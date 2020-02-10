@@ -5,7 +5,7 @@ import json
 import random
 import os
 
-token = "HA! That's a Secret"
+token = open("token.txt", 'r').read()
 client = commands.Bot('$')
 
 responces = json.loads(open("responces/eightBall.json", encoding="utf-8").read())
