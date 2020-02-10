@@ -17,10 +17,12 @@ git clone https://github.com/its-kos/Beat-Bot
 
 ## Usage
 
-1) Run 
-    >python bot.py 
+Run 
 
-    to get the bot up and running.
+```python
+python bot.py 
+```
+to get the bot up and running.
 
 ## Features
 Im too bored to write this right now. TBA
